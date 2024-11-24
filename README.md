@@ -19,7 +19,7 @@ gantt
         738389 - Add Late Fee resident intent                               : 738389, after 748081, 1d
         748081 - Evicted residents trigger handoff; check status daily      : 748081, after 719980, 1d
         750923 - Emailbot signature link shows URL; link includes GUID      : done, 750923, Nov-22, 1d
-        753356 - ChatIQ for Student                                         : active, 753356, Nov-22, 30d
+        753356 - ChatIQ for Student                                         : active, 753356, Nov-22, 21d
         754189 - Standardize ChatIQ override logic in BOT                   : crit, after 759871, 1d
     section Nilesh Dahiphale
         720058 - Enable KPI drill-downs                                     : active, 720058, Nov-22, 1d
