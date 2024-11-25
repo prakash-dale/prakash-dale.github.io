@@ -2,16 +2,19 @@
 
 ## Get access to various resources
 
-- Stellar
+- Stellar - Raise a stellar request.
 - yCRM
-- TFS \
-    Add request in [helpdesk ](https://yardi.atlassian.net/helpcenter/helpdesk/)
+- TFS
+    - In n yCRM, navigate to Tracking Request > Source Control > Source Control Access Request.
+    - In the Source Folder field, enter the path to the folder.
 - WeWork
-- New Horizon VM
+- New Horizon VM - Create a separate IT Ticket.
 - MySQL databases
     - Local DB - Prakash to create new user
     - QA - Add stellar request
+- Duo Mobile
 - Chat IQ Admin - Dev, QA (CrmIQ, FlexQA)
+
 
 
 ## MySQL Databases

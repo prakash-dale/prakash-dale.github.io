@@ -9,7 +9,8 @@ gantt
     tickInterval 1d
     excludes weekends, 2024-12-25
     24.12 Release: milestone, 24.12 Release, Dec-24, 1d
-    section Deepak Dhage        
+    section Deepak Dhage
+        759517 - Tour type issue                                            : 759517, Nov-25, 1d       
         711607 - Resend Application Link Intent                             : 711607, after 750910, 3d
         735838 - Add "Best Value" to bots                                   : crit, 735838, Nov-22, 1d
         750910 - Bot sends re-invitation links                              : 750910, after 735838, 2d        
@@ -28,6 +29,7 @@ gantt
         755867 - Reporting off voyager db                                   : crit, 755867, after 759871, 5d
     section Rob Pickering
         754357 - Text bot rent payment failing: 754357, Nov-22, 6d
+        750740 - Do not show emoji's in bot responses (25.1)                : active, 750740, Nov-25, 1d
 ```
 
 ## My Day
@@ -49,5 +51,7 @@ journey
         Weekly Meeting 6 PM: 0: Me
         Dev Meeting 9 PM: 0: Me
         Res Servs Dev Mgmt Discn 9'30 PM : 0: Me
+    section Misc
+        Deploy ChatIQ to Prod: 8: Me
 
 ```
