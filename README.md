@@ -38,7 +38,7 @@ gantt
 journey
     title 25-Nov-2025
     section Planning
-        Prepare HTML Assgnmnt for Kunal: 0: Me
+        Prepare HTML Assgnmnt for Kunal: 8: Me
         Student Schedule Tour Discussion: 0: Me, Deepak
     section Development
         Cancel Workorder: 0: Me
@@ -54,4 +54,15 @@ journey
     section Misc
         Deploy ChatIQ to Prod: 8: Me
 
+```
+
+```mermaid
+journey
+    title 26-Nov-2025
+    section Planning
+        Assgnmnt 2 for Kunal: 8: Me
+    section Followup
+        Assignment 1 Review: 0: Me, Kunal
+        
+    
 ```

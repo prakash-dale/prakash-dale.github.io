@@ -2,7 +2,27 @@
 
 ## Get access to various resources
 
-- Stellar - Raise a stellar request.
+- Stellar
+    - Complete the two [Aspire](https://yarditrainingservices.yardielearning.com/) security courses \
+    Login to Aspire and assign following courses to the new employee through Supervisor mode.
+        - CST 010 - Supporting Hosted Clients
+        - NE 100 - Security Awareness
+    - Once courses are completed, download the transcript of the user courses.
+    - Raise a stellar request \
+    Initial Stellar Access can be requested via Cloud Request > New user setup case logged under PIN 100052397
+    - Attach courses transcript to the stellar request.
+    ```mermaid
+    flowchart LR
+    A[Start] --> B[Assign Security Courses]
+    B --> C{Course Complete?}
+    C --> |Yes| E[Download Transcript]
+    C --> |No| F[Send Reminder]
+    F --> C
+    E --> G[Add Stellar Request]
+    G --> I[Attach transcripts]
+    I --> J[End]
+
+    ```
 - yCRM
 - TFS
     - In n yCRM, navigate to Tracking Request > Source Control > Source Control Access Request.
