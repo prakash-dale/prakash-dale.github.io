@@ -64,22 +64,3 @@ timeline
             : Sagar's team won runner up position<br>Football
     
 ```
-
-## Tasks
-
-### Student Schedule Tour Discussion - Todo
-
-- Determine components involved in Create Lead (Deepak to research)
-
-```mermaid
-journey
-    title 26-Nov-2025
-    section Planning
-        Assgnmnt 2 for Kunal: 0: Me
-    section Followup
-        Assignment 1 Review: 0: Me, Kunal
-        
-    
-```
-
-
