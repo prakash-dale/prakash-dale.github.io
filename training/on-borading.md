@@ -27,6 +27,7 @@
 - TFS
     - In n yCRM, navigate to Tracking Request > Source Control > Source Control Access Request.
     - In the Source Folder field, enter the path to the folder.
+    - Connect to TFS through Visual Studion (TFS URL: )
 - WeWork
 - New Horizon VM - Create a separate IT Ticket.
 - MySQL databases
