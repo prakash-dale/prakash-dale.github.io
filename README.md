@@ -57,10 +57,4 @@ journey
         Setup local webchat: 0: Me
 ```
 
-```mermaid
-timeline
-    title Time line - November 2024
-    Nov-25  : Priya sent email for Car Pick/Drop, etc
-            : Sagar's team won runner up position<br>Football
-    
-```
+
