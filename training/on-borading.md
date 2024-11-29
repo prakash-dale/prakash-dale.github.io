@@ -68,3 +68,16 @@ TFS location for training material: $/Underdevelopment/SiddharthMehta
 |                  | Day 9 | TL/Mgr           | Reports and Dashboards                      |
 |                  | Day 10| TL/Mgr           | Element Security and Shipyard deployment    |
 
+
+## Confirmation Process
+
+**Note:**
+- if rating is 3 then better to either extend the confirmation for another 3-6 months
+- if rating is 2 then better to exit early in this process
+- Sql Rating: specify few trs
+- Angular Rating: specify few trs
+- Email rating : add few email attachment
+
+| Name | Team | Manager (Pune) | Manager (US) | SQL Rating (1-5) | Angular Rating (1-5) | Email Rating (1-5) | Verbal Rating (1-5) | # of Days in Office (per week) | Project Manager Comments | Counterpart Manager Comments | Approve to Hire (Y/N) | Siddharth Mehta Comments | Approve to Hire (Y/N) | Manish Mehta Comments | Approve to Hire (Y/N) |
+|---------------------|--------|----------------|--------------------|-------------------|-----------------------|--------------------|---------------------|-------------------------------|---------------------------|-----------------------------|------------------------|--------------------------|------------------------|-----------------------|------------------------|
+| Kunal Chaudhari | Chat IQ | Prakash | Jon Pence |  |  |  | 5 |  |  |  |  |  |  |  |  | 
