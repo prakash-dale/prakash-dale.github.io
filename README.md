@@ -12,9 +12,9 @@ gantt
     24.12 Release: milestone, 24.12 Release, Dec-24, 1d    
     section Deepak Dhage        
         
-        735838 - Add "Best Value" to bots                                   : crit, 735838, Nov-22, 3d
-        757878 - Prospect match                                             : crit, 757878, after 735838, 1d
-        719980 - Residents cancel own requests                              : active, 719980, after 757878, 3d
+        735838 - Add "Best Value" to bots                                   : done, 735838, Nov-22, 3d
+        757878 - Prospect match                                             : done, 757878, after 735838, 1d
+        719980 - Residents cancel own requests                              : done, 719980, after 757878, 3d
         750910 - Bot sends re-invitation links                              : 750910, after 24.1Dev, 2d
         711607 - Resend Application Link Intent                             : 711607, after 750910, 3d        
         
@@ -24,7 +24,7 @@ gantt
         754189 - Standardize ChatIQ override logic in BOT                   : done, after 759871, 1d
         748081 - Evicted residents trigger handoff; check status daily      : done, 748081, Nov-28, 1d
         727178 - Emailbot ignores time-specific requests                    : 717178, after 738389, 1d
-        738389 - Add Late Fee resident intent                               : 738389, after 748081, 1d
+        738389 - Add Late Fee resident intent                               : active, 738389, after 748081, 1d
         753356 - ChatIQ for Student                                         : active, 753356, Nov-22, 21d
         
         Review 25.1 TRs                                                    : 24.12Dev, Dec-06, 1d
