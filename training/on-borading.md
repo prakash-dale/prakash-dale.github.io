@@ -1,5 +1,11 @@
 # On Boarding New Employee
 
+## Wework booking
+
+How to do desk booking t wework booking?
+
+Avialabile desks for booking 3rd Floor, 6140 to 6275
+
 ## Get access to various resources
 
 - Stellar
@@ -30,6 +36,7 @@
     - Connect to TFS through Visual Studion (TFS URL: )
 - WeWork
 - New Horizon VM - Create a separate IT Ticket.
+    - Install Horizon vmware software.
 - MySQL databases
     - Local DB - Prakash to create new user
     - QA - Add stellar request
