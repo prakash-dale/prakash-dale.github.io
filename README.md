@@ -61,10 +61,10 @@ gantt
         765302 - Fix query issue causing duplicate admin users on the Admin Users screen: 765302, after 765301, 4h
 
     section Nilesh Dahiphale
-        739085 - Conversations Dashboard, Timeout issue with multiple properties: 739085, Jan-16, 16h
-        740129 - Report scheduling issue, incorrect counts: 740129, after 739085, 32h
-        761774 - Auto-sync bot names between property and model: 761774, after 740129, 8h
-        762795 - Emergency Maintenance Number field not retaining: 762795, after 761774, 8h
+        739085 - Conversations Dashboard, Timeout issue with multiple properties: 739085, after 740129, 8h
+        740129 - Report scheduling issue, incorrect counts: 740129, after 761774, 32h
+        761774 - Auto-sync bot names between property and model: 761774, after 762795, 8h
+        762795 - Emergency Maintenance Number field not retaining: 762795, Jan-17, 8h
     
     section Prakash Dale
         756889 - Fix bot to recognize Saturday tour requests two days ahead.    : 756889, Jan-16, 8h
