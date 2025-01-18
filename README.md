@@ -54,11 +54,11 @@ gantt
     section Kunal Chaudhari
         765073 - Convert OMNI MySQL SQL for MSSQL Voyager compatibility         : active, 765073, Jan-16, 5h
         765074 - Update OMNI MySQL SQL for MSSQL Voyager compatibility.         : active, 765074, after 765073, 4h
-        765296 - Fix email routing display issue in Omni Admin Property screen  : 765296, after 765074, 4h
-        765299 - Remove the Ops menu from the header in Omni Admin.             : 765299, after 765296, 2h
-        765300 - Replace the Id column with UUID on the Operators screen.       : 765300, after 765299, 2h
-        765301 - Add a communication type column to the Providers screen        : 765301, after 765300, 4h
-        765302 - Fix query issue causing duplicate admin users on the Admin Users screen: 765302, after 765301, 4h
+        765296 - Fix email routing display issue in Omni Admin Property screen  : done, 765296, after 765074, 4h
+        765299 - Remove the Ops menu from the header in Omni Admin.             : done, 765299, after 765296, 2h
+        765300 - Replace the Id column with UUID on the Operators screen.       : done, 765300, after 765299, 2h
+        765301 - Add a communication type column to the Providers screen        : 765301, 765301, after 765300, 4h
+        765302 - done, Fix query issue causing duplicate admin users on the Admin Users screen: 765302, after 765301, 4h
 
     section Nilesh Dahiphale
         739085 - Conversations Dashboard, Timeout issue with multiple properties: 739085, after 740129, 8h
