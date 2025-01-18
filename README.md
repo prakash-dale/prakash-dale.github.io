@@ -66,6 +66,8 @@ gantt
         740129 - Report scheduling issue, incorrect counts: 740129, after 761774, 32h
         761774 - Auto-sync bot names between property and model: 761774, after 762795, 8h
         762795 - Emergency Maintenance Number field not retaining: 762795, Jan-17, 6h
+        765570 - Chat IQ reporting changes to fix Undeliverable emails: 765570, after 751905, 4h
+
     
     section Prakash Dale
         756889 - Fix bot to recognize Saturday tour requests two days ahead.    : 756889, Jan-16, 8h
