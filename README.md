@@ -26,15 +26,16 @@ gantt
         754022 - Enable Chat IQ bot to answer questions about floorplan square footage.: 754022, after 761956, 16h
 
     section Jonathan Hamilton
-        692245 - Add transcription support for voice calls between two people.: 692245, Jan-16, 16h
+        692245 - Add transcription support for voice calls between two people.: active, 692245, Jan-16, 16h
         744231 - Handle RentCafe Y2Y in OMN: 744231, after 692245, 8h
-        748055 - Fix web chat handoff to call center.: 748055, after 744231, 4h
+        748055 - Fix web chat handoff to call center: 748055, after 744231, 4h
         748834 - Voicebot struggles to hear input from prospect : 748834, after 748055, 4h
         758950 - Site Manager - change number provisioning in Site Manager/Omni to Bandwidth: 758950, after 748834, 4h
 
     section Jacob Oleson
-        712431 - Enable CRM IQ conversion without automation. : 712431, Jan-16, 16h
+        712431 - Enable CRM IQ conversion without automation : 712431, Jan-16, 16h
         751412 - For all inbound Call Automation calls, thoroughly log schedule & routing details : 751412, after 712431, 4h
+        766740 - Prompt number not getting displayed properly : 766740, after 751412, 4h
 
     section Jon Pence
         749584 - Create Work Order, Attach Voice Mail, and Send Notification to Technician on call: 749584, Jan-16, 8h
@@ -64,7 +65,7 @@ gantt
         739085 - Conversations Dashboard, Timeout issue with multiple properties: 739085, after 740129, 8h
         740129 - Report scheduling issue, incorrect counts: 740129, after 761774, 32h
         761774 - Auto-sync bot names between property and model: 761774, after 762795, 8h
-        762795 - Emergency Maintenance Number field not retaining: 762795, Jan-17, 8h
+        762795 - Emergency Maintenance Number field not retaining: 762795, Jan-17, 6h
     
     section Prakash Dale
         756889 - Fix bot to recognize Saturday tour requests two days ahead.    : 756889, Jan-16, 8h
@@ -73,14 +74,14 @@ gantt
         749935 - Resolve prebot duplication in responses: 749935, after 729186, 8h
         
     section Rob Pickering
-        750807 - Chat IQ should be able to provide locations and distances in relation to the property location: 750807, Jan-16, 8h
+        750807 - (Dev assessment) Chat IQ should be able to provide locations and distances in relation to the property location: 750807, Jan-16, 8h
         756608 - Parking intent is inconsistent and very finicky : 756608, after 750807, 4h
-        756986 - paymentissue intent incorrectly telling residents they have non-sufficient funds : 756986, after 756608, 4h
-        758944 - Improve recognition around days of week : 758944, after 756986, 4h
-        759707 - Voice bot diverts, but work order fails : 759707, after 758944, 4h
+        756986 - (Dev assessment)paymentissue intent incorrectly telling residents they have non-sufficient funds : 756986, after 756608, 4h
+        758944 - (Dev assessment) Improve recognition around days of week : 758944, after 756986, 4h
+        759707 - Voice bot diverts, but work order fails : done, 759707, after 758944, 4h
         759817 - Location intents not triggering properly : 759817, after 759707, 4h
         759824 - Income requirement intent not triggering consistently : 759824, after 759817, 4h
-        760818 - Need to update Fallback Response Behavior per the below flow : 760818, after 759824, 4h
+        760818 - (Dev assessment) Need to update Fallback Response Behavior per the below flow : 760818, after 759824, 4h
         763203 - Chat IQ Performance Changes for Webchat : 763203, after 760818, 4h
 
     section Sonali Navale
@@ -93,4 +94,36 @@ gantt
  
 
     
+```
+
+
+```mermaid
+gantt
+    title Release 25.3 (Last updated on Jan-18)
+    dateFormat MMM-DD
+    tickInterval 4h
+    excludes weekends
+
+    section Deepak Dhage
+        765816 - payrent issues. Resident tried to change default payment account: 765816, Feb-20, 8h
+        765596 - Textbot is offering times that are not available: 765596, after 765816, 4h
+        765142 - Emailbot scheduletour confirmation throwing error in log: 765142, after 765596, 4h
+        760775 - "Today" the word or "12/2/2024" (adjusted MM/dd/YYYY for whatever date it is) is being treated as a past date.: 760775, after 765142, 4h
+        756601 - Community amenities are inconsistently being called on when specific amenities are being asked about: 756601, after 760775, 4h
+        752780 - Check the box next to "Guided Tour": 752780, after 756601, 4h
+        750087 - Bot shows full details if user selects alternate: 750087, after 752780, 4h
+
+    section Nilesh Dahiphale
+        702008 - Dark mode Chat IQ Admin: 702008, Feb-20, 8h
+
+    section Prakash Dale
+        766586 - Client is requesting language support for Portuguese: done, 766586, Feb-20, 8h
+        759493 - Schedule tour> Webchat> Behind the SaT widget bot also shows 'None' as a tour type.: done, 759493, after 766586, 8h
+        727178 - slot after a specific time (like anytime after 4 pm) : active, 727178, after 759493, 4h
+
+    section Kunal Chaudhari
+        DF-313252 Schema update package: DF-313252, Jan-20, 1h
+
+    section Rob Pickering
+        765997: 765997, Feb-20, 8h
 ```
