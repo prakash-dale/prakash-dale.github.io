@@ -52,8 +52,8 @@ gantt
         751153 - Voicemail messages cut off during calls : 751153, Jan-16, 8h
 
     section Kunal Chaudhari
-        765073 - Convert OMNI MySQL SQL for MSSQL Voyager compatibility         : 765073, Jan-16, 4h
-        765074 - Update OMNI MySQL SQL for MSSQL Voyager compatibility.         : 765074, after 765073, 4h
+        765073 - Convert OMNI MySQL SQL for MSSQL Voyager compatibility         : active, 765073, Jan-16, 5h
+        765074 - Update OMNI MySQL SQL for MSSQL Voyager compatibility.         : active, 765074, after 765073, 4h
         765296 - Fix email routing display issue in Omni Admin Property screen  : 765296, after 765074, 4h
         765299 - Remove the Ops menu from the header in Omni Admin.             : 765299, after 765296, 2h
         765300 - Replace the Id column with UUID on the Operators screen.       : 765300, after 765299, 2h
