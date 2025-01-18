@@ -122,7 +122,7 @@ gantt
         727178 - slot after a specific time (like anytime after 4 pm) : active, 727178, after 759493, 4h
 
     section Kunal Chaudhari
-        DF-313252 Schema update package: DF-313252, Jan-20, 1h
+        DF-313252 Schema update package: DF-313252, Feb-20, 1h
 
     section Rob Pickering
         765997: 765997, Feb-20, 8h
