@@ -4,7 +4,7 @@
 
 ```mermaid
 gantt
-    title Release 25.2 (Last updated on Jan-16)
+    title Release 25.2 (Last updated on Jan-18)
     dateFormat MMM-DD
     tickInterval 4h
     excludes weekends
