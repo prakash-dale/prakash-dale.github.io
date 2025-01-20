@@ -62,6 +62,9 @@ gantt
         765302 - Fix query issue causing duplicate admin users on the Admin Users screen: done, 765302, after 765301, 4h
 
     section Nilesh Dahiphale
+        755867 - V2 Report Performance metrics dashboard for total automation.: active, 755867, Jan-21, 8h
+        763825 - V2 Report  Performance Merics and Performance Metrics for total anutomation report: 763825, after 755867, 8h
+        763823 - Conversation Dashboard: 763823, after 763825, 8h
         739085 - Conversations Dashboard, Timeout issue with multiple properties: 739085, after 740129, 8h
         740129 - Report scheduling issue, incorrect counts: 740129, after 761774, 32h
         761774 - Auto-sync bot names between property and model: 761774, after 762795, 8h
