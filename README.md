@@ -67,7 +67,7 @@ gantt
         763823 - Conversation Dashboard: 763823, after 763825, 8h
         739085 - Conversations Dashboard, Timeout issue with multiple properties: 739085, after 740129, 8h
         740129 - Report scheduling issue, incorrect counts: 740129, after 761774, 32h
-        761774 - Auto-sync bot names between property and model: 761774, after 762795, 8h
+        761774 - Auto-sync bot names between property and model: done, 761774, after 762795, 8h
         762795 - Emergency Maintenance Number field not retaining: done, 762795, Jan-17, 6h
         765570 - Chat IQ reporting changes to fix Undeliverable emails: 765570, after 751905, 4h
 
