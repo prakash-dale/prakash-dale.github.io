@@ -33,7 +33,7 @@ gantt
         758950 - Site Manager - change number provisioning in Site Manager/Omni to Bandwidth: 758950, after 748834, 4h
 
     section Jacob Oleson
-        712431 - Enable CRM IQ conversion without automation : 712431, Jan-16, 16h
+        712431 - Enable CRM IQ conversion without automation : active, 712431, Jan-16, 16h
         751412 - For all inbound Call Automation calls, thoroughly log schedule & routing details : 751412, after 712431, 4h
         766740 - Prompt number not getting displayed properly : 766740, after 751412, 4h
 
