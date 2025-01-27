@@ -46,7 +46,7 @@ gantt
         757749 - Omni API - Need an API to deliver Agent/Call data for new Agent Analytics report: 757749, after 757736, 8h
         759265 - Tapedeck should send a status update saying the operation failed.: 759265, after 757749, 4h
         759569 - Fix the null reference exception in the Omni API's on-call tech controller in AddSchedule: 759569, after 759265, 4h
-        761483 - New endpoint needed for conversation summary.: 761483, after 759569, 4h
+        761483 - New endpoint needed for conversation summary.: active, 761483, after 759569, 4h
         761484 - New endpoint for message rewriting suggestions: 761484, after 761483, 4h
 
     section Kira Loomis
