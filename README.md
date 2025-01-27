@@ -62,6 +62,7 @@ gantt
         765302 - Fix query issue causing duplicate admin users on the Admin Users screen: done, 765302, after 765301, 4h
 
     section Nilesh Dahiphale
+        767658 - Property overrides fail if matching model-level: active, 767658, Jan-27, 24h
         755867 - V2 Report Performance metrics dashboard for total automation.: active, 755867, Jan-21, 8h
         763825 - V2 Report  Performance Merics and Performance Metrics for total anutomation report: 763825, after 755867, 8h
         763823 - Conversation Dashboard: 763823, after 763825, 8h
@@ -113,7 +114,7 @@ gantt
         765816 - payrent issues. Resident tried to change default payment account: 765816, Feb-20, 8h
         765596 - Textbot is offering times that are not available: 765596, after 765816, 4h
         765142 - Emailbot scheduletour confirmation throwing error in log: 765142, after 765596, 4h
-        760775 - "Today" the word or "12/2/2024" (adjusted MM/dd/YYYY for whatever date it is) is being treated as a past date.: 760775, after 765142, 4h
+        760775 - "Today" the word or "12/2/2024" (adjusted MM/dd/YYYY for whatever date it is) is being treated as a past date.: done, 760775, after 765142, 4h
         756601 - Community amenities are inconsistently being called on when specific amenities are being asked about: 756601, after 760775, 4h
         752780 - Check the box next to "Guided Tour": 752780, after 756601, 4h
         750087 - Bot shows full details if user selects alternate: 750087, after 752780, 4h
