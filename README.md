@@ -65,7 +65,7 @@ gantt
 
 
     section Nilesh Dahiphale
-        767658 - Property overrides fail if matching model-level: done, 767658, Jan-27, 24h
+        767658 - Property overrides fail if matching model-level: done, 767658, Jan-21, 24h
         755867 - V2 Report Performance metrics dashboard for total automation.: active, 755867, Jan-21, 8h
         763825 - V2 Report  Performance Merics and Performance Metrics for total anutomation report: 763825, after 755867, 8h
         763823 - Conversation Dashboard: 763823, after 763825, 8h
