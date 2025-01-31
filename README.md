@@ -13,29 +13,28 @@ gantt
         756939 - Tracking Operator/Company status history in Omni DB: 756939, Jan-16, 8h
 
     section Deepak Dhage
-        756017 = Update bot verbiage to avoid rejections: active, 756017, Jan-16, 8h
-        761142 - Fix Payrent intent error for residents logging in via CLO      : 761142, after 756017, 16h
-        759369 - Ignore wait unit pricing errors in pricinginfo API response.   : 759369, after 761142, 12h
+        756017 = Update bot verbiage to avoid rejections: done, 756017, Jan-16, 8h
+        761142 - Fix Payrent intent error for residents logging in via CLO      : done, 761142, after 756017, 16h
+        759369 - Ignore wait unit pricing errors in pricinginfo API response.   : done, 759369, after 761142, 12h
         758350 - Fix Chat IQ handling of floorplan and amenity file names.      : done, 758350, after 759369, 8h
         757756 - Fix Applicationfee intent error when overriding Voyager setup. : done, 757756, after 758350, 4h
         756235 - Fix chatbot floorplan display to honor availability count setting: done, 756235, after 757756, 8h
         757305 - Fix double quote issue in floorplan image alt text API call.   : done, 757305, after 756235, 8h
-        759595 - Fix Voicebot to say "square feet" instead of letters.          : 759595, after 759369, 4h
-        759768 - Fix bot hyperlinks to prevent errors when clicked.             : 759768, Jan-16, 16h
-        761956 - Fix floorplan URL 404 error caused by "/" in title.            : 761956, after 759768, 8h
-        754022 - Enable Chat IQ bot to answer questions about floorplan square footage.: 754022, after 761956, 16h
-
+        759595 - Fix Voicebot to say "square feet" instead of letters.          : done, 759595, after 759369, 4h
+        759768 - Fix bot hyperlinks to prevent errors when clicked.             : done, 759768, Jan-16, 16h
+        761956 - Fix floorplan URL 404 error caused by "/" in title.            : done, 761956, after 759768, 8h
+        
     section Jonathan Hamilton
         692245 - Add transcription support for voice calls between two people.: active, 692245, Jan-16, 16h
         744231 - Handle RentCafe Y2Y in OMN: 744231, after 692245, 8h
-        748055 - Fix web chat handoff to call center: 748055, after 744231, 4h
+        748055 - Fix web chat handoff to call center: done, 748055, after 744231, 4h
         748834 - Voicebot struggles to hear input from prospect : 748834, after 748055, 4h
         758950 - Site Manager - change number provisioning in Site Manager/Omni to Bandwidth: 758950, after 748834, 4h
 
     section Jacob Oleson
         712431 - Enable CRM IQ conversion without automation : active, 712431, Jan-16, 16h
         751412 - For all inbound Call Automation calls, thoroughly log schedule & routing details : 751412, after 712431, 4h
-        766740 - Prompt number not getting displayed properly : 766740, after 751412, 4h
+        766740 - Prompt number not getting displayed properly : done, 766740, after 751412, 4h
 
     section Jon Pence
         749584 - Create Work Order, Attach Voice Mail, and Send Notification to Technician on call: 749584, Jan-16, 8h
@@ -43,34 +42,38 @@ gantt
 
     section Josh Miller
         757736 - 'PreChat', 'Mid Chat', and Front Desk Widget contact form should honor RentCafe Additional Fields: 757736, Jan-16, 8h
-        757749 - Omni API - Need an API to deliver Agent/Call data for new Agent Analytics report: 757749, after 757736, 8h
-        759265 - Tapedeck should send a status update saying the operation failed.: 759265, after 757749, 4h
-        759569 - Fix the null reference exception in the Omni API's on-call tech controller in AddSchedule: 759569, after 759265, 4h
+        757749 - Omni API - Need an API to deliver Agent/Call data for new Agent Analytics report: active, 757749, after 757736, 8h
+        759265 - Tapedeck should send a status update saying the operation failed.: done, 759265, after 757749, 4h
+        759569 - Fix the null reference exception in the Omni API's on-call tech controller in AddSchedule: done, 759569, after 759265, 4h
         761483 - New endpoint needed for conversation summary.: active, 761483, after 759569, 4h
-        761484 - New endpoint for message rewriting suggestions: 761484, after 761483, 4h
+        761484 - New endpoint for message rewriting suggestions: done, 761484, after 761483, 4h
 
     section Kira Loomis
-        751153 - Voicemail messages cut off during calls : 751153, Jan-16, 8h
+        751153 - Voicemail messages cut off during calls : active, 751153, Jan-16, 8h
 
     section Kunal Chaudhari
-        765073 - Convert OMNI MySQL SQL for MSSQL Voyager compatibility         : active, 765073, Jan-16, 5h
-        765074 - Update OMNI MySQL SQL for MSSQL Voyager compatibility.         : active, 765074, after 765073, 4h
+        765073 - Convert OMNI MySQL SQL for MSSQL Voyager compatibility         : done, 765073, Jan-16, 5h
+        765074 - Update OMNI MySQL SQL for MSSQL Voyager compatibility.         : done, 765074, after 765073, 4h
         765296 - Fix email routing display issue in Omni Admin Property screen  : done, 765296, after 765074, 4h
         765299 - Remove the Ops menu from the header in Omni Admin             : done, 765299, after 765296, 2h
         765300 - Replace the Id column with UUID on the Operators screen       : done, 765300, after 765299, 2h
         765301 - Add a communication type column to the Providers screen        : done, 765301, after 765300, 4h
         765302 - Fix query issue causing duplicate admin users on the Admin Users screen: done, 765302, after 765301, 4h
+    
+    section Kunal Wagh
+        754022 - Enable Chat IQ bot to answer questions about floorplan square footage.: active, 754022, after 761956, 16h
+
 
     section Nilesh Dahiphale
-        767658 - Property overrides fail if matching model-level: active, 767658, Jan-27, 24h
+        767658 - Property overrides fail if matching model-level: done, 767658, Jan-27, 24h
         755867 - V2 Report Performance metrics dashboard for total automation.: active, 755867, Jan-21, 8h
         763825 - V2 Report  Performance Merics and Performance Metrics for total anutomation report: 763825, after 755867, 8h
         763823 - Conversation Dashboard: 763823, after 763825, 8h
         739085 - Conversations Dashboard, Timeout issue with multiple properties: 739085, after 740129, 8h
-        740129 - Report scheduling issue, incorrect counts: 740129, after 761774, 32h
+        740129 - Report scheduling issue, incorrect counts: done, 740129, after 761774, 32h
         761774 - Auto-sync bot names between property and model: done, 761774, after 762795, 8h
         762795 - Emergency Maintenance Number field not retaining: done, 762795, Jan-17, 6h
-        765570 - Chat IQ reporting changes to fix Undeliverable emails: 765570, after 751905, 4h
+        765570 - Chat IQ reporting changes to fix Undeliverable emails: done, 765570, after 751905, 4h
 
     
     section Prakash Dale
