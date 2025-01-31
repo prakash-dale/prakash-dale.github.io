@@ -65,7 +65,7 @@ gantt
 
 
     section Nilesh Dahiphale
-        767658 - Property overrides fail if matching model-level: done, 767658, Jan-21, 24h
+        767658 - Property overrides fail if matching model-level: done, 767658, Jan-18, 24h
         755867 - V2 Report Performance metrics dashboard for total automation.: active, 755867, Jan-21, 8h
         763825 - V2 Report  Performance Merics and Performance Metrics for total anutomation report: 763825, after 755867, 8h
         763823 - Conversation Dashboard: 763823, after 763825, 8h
@@ -98,10 +98,6 @@ gantt
         751905 - Undeliverable emails (i.e., mailer-daemon@rentcafe.com) are significantly inflating Chat IQ conversations & handoff metrics: 751905, after 737676, 4h
         757894 - CTU is same, the chat record is not getting linked to the new Prospect record : 757894, after 751905, 4h
         759567 - Fix the null reference exception in the Omni API's property controller in GetPropertyVoiceActiveSchedule: 759567, after 757894, 4h
-
-
- 
-
     
 ```
 
