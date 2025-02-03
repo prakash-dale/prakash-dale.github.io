@@ -87,4 +87,4 @@ TFS location for training material: $/Underdevelopment/SiddharthMehta
 
 | Name | Team | Manager (Pune) | Manager (US) | SQL Rating (1-5) | Angular Rating (1-5) | Email Rating (1-5) | Verbal Rating (1-5) | # of Days in Office (per week) | Project Manager Comments | Counterpart Manager Comments | Approve to Hire (Y/N) | Siddharth Mehta Comments | Approve to Hire (Y/N) | Manish Mehta Comments | Approve to Hire (Y/N) |
 |---------------------|--------|----------------|--------------------|-------------------|-----------------------|--------------------|---------------------|-------------------------------|---------------------------|-----------------------------|------------------------|--------------------------|------------------------|-----------------------|------------------------|
-| Kunal Chaudhari | Chat IQ | Prakash | Jon Pence |  |  |  | 5 |  |  |  |  |  |  |  |  | 
+| Kunal Chaudhari | Chat IQ | Prakash | Jon Pence |  |  | 5 [email](assets/email_kunal.pdf) | 5 |  |  |  |  |  |  |  |  | 
